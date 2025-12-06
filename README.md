@@ -1,10 +1,5 @@
 # E-COMMERCE APPLICATION
 
-## Clarification
-This project is completed by me, Harsh Kolte, and I used AI to assist with certain components, particularly the frontend. I am still developing my frontend skills, and because my exams are going on, it was difficult to complete everything within the deadline.
-
-Here is the overall information regarding this E-COMMERCE APPLICATION
-
 ## Overview and Key Features
 
 This is a full-stack e-commerce application built with modern web technologies. The application provides a complete online shopping experience with separate interfaces for customers and administrators.
