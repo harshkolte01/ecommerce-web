@@ -35,7 +35,7 @@ export default function CartPage() {
         quantity: item.quantity
       }));
 
-      console.log('Sending checkout request with items:', orderItems);
+      // console.log('Sending checkout request with items:', orderItems);
       const response = await checkoutAPI.createOrder(orderItems);
       
       clearCart();
